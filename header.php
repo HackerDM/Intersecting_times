@@ -2,8 +2,8 @@
 <html lang="en">
 	<head>
 		<title>Intersecting_times</title>
+		<script type = "text/javascript" src = "myscript.js"></script>
 	</head
 	<body>
 		<h1>Intersecting Times</h1>
-		<p>This platform will help us find out a common meeting time so that we can plan our outings conveniently. Kindly input the
-		dates when you are free in the order of decreasing priority.</p>
+		<p>This platform will help us find out a common meeting time so that we can plan our outings conveniently. </p>

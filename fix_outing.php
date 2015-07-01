@@ -2,8 +2,8 @@
 require_once("functions.php");
 
 
-	$preference = $_POST['priority'];
-	$date = $_POST['prefered_dates'];
+	$preference = $_POST["priority"];
+	$date = $_POST["prefered_dates"];
 
 
 establishing_connection();

@@ -17,7 +17,11 @@ function establishing_connection()
 }
 
 
-
+function redirect($link)
+{
+	header ("location: {$link}");
+	exit;
+}
 
 
 
